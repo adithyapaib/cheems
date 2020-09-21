@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#FB2445">
+    <script src="jquery-3.5.1.slim.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
     <title>Happy Birthday!! </title>
 </head>
 
@@ -14,10 +16,27 @@
             margin: 0;
             padding: 0;
             overflow: hidden;
+            font-family: 'Poppins', sans-serif;
         }
         #vdo {
             width: 100vw;
-            height: 100vh;
+            height: 96vh;
+            margin: 0;
+            z-index: 100;
+        }
+        footer
+        {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            background: #000;
+            height: 5vh;
+            margin: 0;
+            position: fixed;
+            bottom: 0;
+
         }
 
         .wrapper {
@@ -45,6 +64,7 @@
             z-index: 10000000;
             text-align: center;
             font-size: 1em;
+            line-height: 1.6;
             
         }
         .loader
@@ -68,20 +88,30 @@
     {
         
         background: rgb(255, 255, 255);
-        font-size: 1em;
+        font-size: 0.8em;
         
-    } 50%
+    }
+    25%
+    {
+        font-size: 2em;
+    }
+    
+     50%
     {
         
-        transform: translateX(-0%);
+        transform: translateY(-0%);
      
         background: white;
-        font-size: 2em;
+        font-size: 1.3em;
+    }
+    75%
+    {
+        font-size: 1.5em;
     }
     100%
     {
-        transform: translateX(-150%);
-        font-size: 1.5em;
+        transform: translateY(-150%);
+        font-size: 0.9em;
         
         
     }
@@ -93,41 +123,23 @@
           
     </div>
     
-    <video id="vdo" width="100%" controls id="myvideo" autoplay>
-        <source src="do.mp4" type="video/mp4">
+    <video id="vdo" width="100%" controls id="myvideo" >
+        <source src="vdo.mp4" type="video/mp4">
 
         Your browser does not support the video tag.
     </video>
-    <script>
-        var elem = document.getElementById("myvideo");
-        function openFullscreen() {
-            if (elem.requestFullscreen) {
-                elem.requestFullscreen();
-            } else if (elem.mozRequestFullScreen) { /* Firefox */
-                elem.mozRequestFullScreen();
-            } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
-                elem.webkitRequestFullscreen();
-            } else if (elem.msRequestFullscreen) { /* IE/Edge */
-                elem.msRequestFullscreen();
-            }
-        }
-    </script>
     
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-        crossorigin="anonymous"></script>
+<footer class="footer">Site by 	&nbsp;<a style="color: #5ee60f;" href="https://adithyapai.com">Ady💯</a> </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.0/typed.min.js"
         integrity="sha512-zKaK6G2LZC5YZTX0vKmD7xOwd1zrEEMal4zlTf5Ved/A1RrnW+qt8pWDfo7oz+xeChECS/P9dv6EDwwPwelFfQ=="
         crossorigin="anonymous"></script>
     <script>
         var typed = new Typed('#typed', {
-            strings: [,'Hey There its your day!! 😍','Wishing you a very very Happy Birthday ! 🎂'],
+            strings: [,'Hey There its your day!! 😍','Wishing you a very very <br> Happy Birthday ! 🎂'],
             smartBackspace: true,
             backSpeed: 40,
             typeSpeed: 30
         });
-
-
     </script>
     <script>
         // helper functions
@@ -288,6 +300,13 @@ document.ontouchstart = evt => birthday.onClick(evt)
   	
 
   })()
+    </script>
+    <script >
+        var vid = document.getElementById("vdo");
+        setTimeout(function(){ 
+            if (vid.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+                vid.webkitRequestFullscreen(); }}, 11100);
+
     </script>
 </body>
 
