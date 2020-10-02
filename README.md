@@ -12,6 +12,15 @@ U Camn add memes camn wrimte about me
 ## Amd amlso pleasme domt formget to stmar this Rempo 
 Site (Limk)[https://cheems.me]
 
+And pleasme Remembeer🥺🥺
+
+<img src="/Cheemsed.png" alt="cheemsSed">
+
+CHEEMS Bhaiya k shaasan m😎
+Gulabi bategi Raashan mai
+Huehuehe😁😋
+
+
 #Domt forget Dogee
 
 <img src="/doge.png" alt="cheems">
