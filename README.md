@@ -9,7 +9,7 @@ Pleamse Upmdate me 🙏
 <br>
 U Camn add memes camn wrimte about me 
 <br>
-Amd amlso pleasme domt formget to Limke this Rempo 
+## Amd amlso pleasme domt formget to stmar this Rempo 
 Site (Limk)[https://cheems.me]
 
 #Domt forget Dogee
