@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Cheems Site
 
-You can use the [editor on GitHub](https://github.com/adithyapaib/cheems/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome To Oum Repo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="/Cheems.png" alt="cheems">
 
-### Markdown
+Please Update me 🙏
+,Make me a Good Ui
+<br>
+U Can add memes can write about me
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## And also please dot forget to smart this Repo
 
-```markdown
-Syntax highlighted code block
+Site (Limk)[https://cheems.me]
 
-# Header 1
-## Header 2
-### Header 3
+And please Remember🥺🥺
 
-- Bulleted
-- List
+<img src="/Cheemsed.png" alt="cheemsSed">
 
-1. Numbered
-2. List
+CHEEMS Bhaiya k shaasan m😎
+Gulabi bategi Raashan mai
+Huehuehe😁😋
 
-**Bold** and _Italic_ and `Code` text
+#Dont forget Dogee
 
-[Link](url) and ![Image](src)
-```
+<img src="/doge.png" alt="cheems">
+Thank You
+Cheemsburger : )
+<br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="/dorime.jpg" alt="cheems">
+<img src="/human-dog.jpg" alt="cheems">
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adithyapaib/cheems/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Open source contributor
+![Contributor](https://user-images.githubusercontent.com/61985253/136117601-61358bd3-7e80-412f-9544-e76fd39ac6e9.jpeg)
