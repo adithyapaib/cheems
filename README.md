@@ -21,7 +21,7 @@ And please Remember🥺🥺
 All of us in Latin America have laughed at the “Cheems” dog and his “amsiety” in the “Swole Doge vs. Cheems ” that compares two dogs in comical situations. Actually, this Shiba Inu dog from Hong Kong is called Balltze and this weekend it turned 10 years old.
 
 The ultra-popular dog's owners celebrated Balltze's first decade with a party featuring music, hamburgers and a special dog cake on Instagram where the meme star received more than 2,500 compliments in the comments.
-
+Since then, the meme has been used by different brands in their digital marketing strategies, including by government agencies.Since then, the meme has been used by different brands in their digital marketing strategies, including by government agencies.
 
 All of us in Latin America have laughed at the “Cheems” dog and his “amsiety” in the “Swole Doge vs. Cheems ” that compares two dogs in comical situations. Actually, this Shiba Inu dog from Hong Kong is called Balltze and this weekend it turned 10 years old.
 
