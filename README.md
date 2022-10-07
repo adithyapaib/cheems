@@ -12,7 +12,7 @@ U Can add memes can write about me
 Site (Limk)[https://cheems.me]Site (Limk)[https://cheems.me]
 ## And also please dot forget to smart this Repo
 
-"Cheems" went viral during the quarantine because it reflected the changes that take place between generations and the anxiety that people are experiencing due to the COVID-19 pandemic and the paradoxes of the world today. His image gained publicity when his owner posted an image on Instagram talking about how much his dog loves to eat cheeseburgers.
+During the quarantine, "Cheems" gained popularity because it captured the generational shifts, the fear that the COVID-19 pandemic is causing, and the ambiguities of the modern world. His picture went viral after his owner shared a photo on Instagram expressing how much his dog enjoys eating cheeseburgers.
 
 Site (Limk)[https://cheems.me]
 
